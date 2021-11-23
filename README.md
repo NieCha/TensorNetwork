@@ -1,6 +1,19 @@
-###### Tensor library
-1. tensor 基本运算
-2. t-product 基本运算
-3. 张量分解
-4. 张量补全算法
-5. 张量网络表示和收缩
+### Tensor library
+
+###### 1. tensor :Basis Operation
+
+###### 2. t-product
+
+###### 3. Tensor Decomposition
+
+###### 4. Tensor Completion Algorithms
+
+###### 5. Tensor Network Representation and Contraction
+
+###### 6. Citation
+
+```
+Chang Nie. Tensor Network Library. Nanjing University of Science and Technology, July 2021.
+https://github.com/NieCha/TensorNetwork.
+```
+
